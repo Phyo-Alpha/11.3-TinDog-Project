@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/11.3-TinDog-Project/static/css/main.f57418d3.css",
+    "main.js": "/11.3-TinDog-Project/static/js/main.2dc10b4b.js",
+    "static/media/herobackground@2x.png": "/11.3-TinDog-Project/static/media/herobackground@2x.93b1d51058e63fe1e56b.png",
+    "index.html": "/11.3-TinDog-Project/index.html",
+    "main.f57418d3.css.map": "/11.3-TinDog-Project/static/css/main.f57418d3.css.map",
+    "main.2dc10b4b.js.map": "/11.3-TinDog-Project/static/js/main.2dc10b4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f57418d3.css",
+    "static/js/main.2dc10b4b.js"
+  ]
+}
